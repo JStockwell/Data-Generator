@@ -477,11 +477,11 @@ def gen_users():
                 write_provider.writerow(row)
 
 ### -------------------- Execution -------------------- ###
-#gen_announcements()
-#gen_chirps()
-#gen_items()
-#gen_patronage()
-#gen_toolkits()
+gen_announcements()
+gen_chirps()
+gen_items()
+gen_patronage()
+gen_toolkits()
 gen_quantity()
-#gen_patronage_report()
-#gen_users()
+gen_patronage_report()
+gen_users()
